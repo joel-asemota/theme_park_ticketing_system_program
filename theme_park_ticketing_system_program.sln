@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "theme_park_ticketing_system_program", "theme_park_ticketing_system_program\theme_park_ticketing_system_program.pyproj", "{01F63F7D-C003-43C6-AA0E-4189F10D84BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F63F7D-C003-43C6-AA0E-4189F10D84BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F63F7D-C003-43C6-AA0E-4189F10D84BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F9E268-827E-4C0E-BA97-0A32DB1C1DEF}
+	EndGlobalSection
+EndGlobal
